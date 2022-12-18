@@ -1,0 +1,58 @@
+{
+  "animals": [
+    {
+      "type": "Gato",
+      "userId": 4,
+      "name": "Miauzinho",
+      "id": 1
+    },
+    {
+      "type": "Cachorro",
+      "userId": 4,
+      "name": "Mel",
+      "id": 2
+    },
+    {
+      "type": "Cachorro",
+      "userId": 4,
+      "name": "Preta",
+      "id": 3
+    },
+    {
+      "ad": "Cachorro",
+      "userId": 4,
+      "nasadme": "Preta",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "ivan@mail.com",
+      "password": "$2a$10$6WpMQrfqzu8OpP.d25OoxeK6Lmto20szFPV2oCYrOZy47UNUlfQV.",
+      "name": "Ivan",
+      "age": 25,
+      "id": 2
+    },
+    {
+      "email": "claus@mail.com",
+      "password": "$2a$10$r.lRlQPGx6Nuc8IJwfqhQOL4Bp1FYapI4cbqRwZz7N.uCierL6B2S",
+      "name": "Claus",
+      "age": 25,
+      "id": 3
+    },
+    {
+      "email": "clauss@mail.com",
+      "password": "$2a$10$yHgdHA8kZ30JsgCwXwdFVuCyo2kk3nc8Ot4yd6xmvgN32tTphs1eW",
+      "name": "Clauss",
+      "age": 25,
+      "id": 4
+    }
+  ]
+}
